@@ -1,2 +1,2 @@
-sudo apt update && sudo apt install telnet
+#!/bin/bash
 telnet towel.blinkenlights.nl
